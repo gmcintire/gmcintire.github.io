@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Graham McIntire's thoughts"
 theme = "terminal"
 paginate = 5
+pygmentsCodeFences = true
+pygmentsStyle = "monokai"
+enableRobotsTXT = true 
+enableEmoji = true
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
