@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Graham McIntire&#39;s thoughts</title>
     <link>https://gmcintire.github.io/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Graham McIntire&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Jan 2019 10:55:58 -0600</lastBuildDate>
